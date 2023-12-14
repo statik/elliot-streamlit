@@ -3,8 +3,8 @@ import pandas as pd
 
 st.write(
     """
-# My first app
-Hello *world!*
+# My first streamlit app
+This is a line chart of a pandas DataFrame.
 """
 )
 
